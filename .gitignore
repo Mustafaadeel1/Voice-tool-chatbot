@@ -1,0 +1,4 @@
+venv
+.mypy_cache
+.md
+GOOGLE_API_KEY = "AIzaSyCipxZmb0iHDi9vukeeKbb77xSVxvFheZs"
